@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>CYBERFOX</h1>
+<h1>CYBERFOX 🦊</h1>
 
 <h3>YOUR DIGITAL WORLD, PROTECTED BY AI.</h3>
 <p><strong>Intelligent Cybersecurity & Data Protection for All Platforms</strong></p>
