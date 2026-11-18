@@ -1,6 +1,6 @@
-def get_max_min(input_data: list) -> list:
+def get_max_min(dataset: list) -> list:
     """Returns [(max_name, max_grade), (min_name, min_grade)]."""
-    names, grades = input_data
+    names, grades = dataset
 
     # If there is no data, we avoid errors
     if not names or not grades:
